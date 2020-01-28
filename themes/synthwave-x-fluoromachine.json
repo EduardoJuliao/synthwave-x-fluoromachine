@@ -136,12 +136,11 @@
     "gitDecoration.ignoredResourceForeground": "#ffffff59",
     "breadcrumbPicker.background": "#232530"
   },
-  "tokenColors": [
-    {
+  "tokenColors": [{
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "foreground": "#495495",
+        "foreground": "#48f535",
         "fontStyle": "italic"
       }
     },
